@@ -24,10 +24,15 @@ Kurumlar için yangın ekipmanlarının, personel zimmetlerinin ve bakım süre�
 Kütüphaneler için geliştirilmiş, kitap ödünç verme/iade, üye takibi ve ceza hesaplama işlemlerini otomatize eden masaüstü uygulaması.
 - **Teknolojiler:** C#, .NET Windows Forms, MSSQL, Modern UI Design.
 
-### 👥 [Flutter IoT People Counter](https://github.com/mehmetulucayy/pi-iot-counter)
-Raspberry Pi ve Flutter teknolojileriyle geliştirilen akıllı insan sayma sistemi. YOLO tabanlı nesne tespiti ile gerçek zamanlı kişi takibi yapar ve verileri Firebase üzerinden Flutter mobil uygulamasında görselleştirir.
-- **Özellikler:** Gerçek zamanlı insan sayma, kamera tabanlı görüntü işleme, Firebase entegrasyonu, canlı veri akışı.
-- **Teknolojiler:** Python, YOLO (Computer Vision), Raspberry Pi, Flutter, Firebase.
+### � [Pi IoT Counter](https://github.com/mehmetulucayy/pi-iot-counter)
+Raspberry Pi üzerinde çalışan YOLO tabanlı insan sayma sistemi. Kamera görüntülerini işleyerek gerçek zamanlı kişi tespiti yapar ve verileri Firebase'e gönderir.
+- **Özellikler:** YOLO nesne tespiti, DeepSORT takip algoritması, Firebase entegrasyonu, gerçek zamanlı veri aktarımı.
+- **Teknolojiler:** Python, YOLO (Computer Vision), DeepSORT, Raspberry Pi, Firebase.
+
+### 📱 [Flutter IoT People Counter](https://github.com/mehmetulucayy/flutter-iot-people-counter)
+Pi IoT Counter sisteminden gelen verileri görselleştiren Flutter mobil uygulaması. Gerçek zamanlı insan sayısı, grafikler ve istatistikler sunar.
+- **Özellikler:** Gerçek zamanlı veri görselleştirme, grafik ve istatistikler, Firebase senkronizasyonu, kullanıcı dostu arayüz.
+- **Teknolojiler:** Flutter, Dart, Firebase (Firestore & Realtime Database).
 
 ---
 
