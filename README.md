@@ -24,9 +24,10 @@ Kurumlar için yangın ekipmanlarının, personel zimmetlerinin ve bakım süre�
 Kütüphaneler için geliştirilmiş, kitap ödünç verme/iade, üye takibi ve ceza hesaplama işlemlerini otomatize eden masaüstü uygulaması.
 - **Teknolojiler:** C#, .NET Windows Forms, MSSQL, Modern UI Design.
 
-### 👥 İnsan Sayma ve Analiz Sistemi (IoT & AI)
-Bir ortamdaki insanların sayısını ve yoğunluğunu gerçek zamanlı tespit eden akıllı sistem.
-- **Teknolojiler:** Python, YOLO (Computer Vision), Raspberry Pi.
+### 👥 [Flutter IoT People Counter](https://github.com/mehmetulucayy/flutter-iot-people-counter)
+Raspberry Pi ve Flutter teknolojileriyle geliştirilen akıllı insan sayma sistemi. YOLO tabanlı nesne tespiti ile gerçek zamanlı kişi takibi yapar ve verileri Firebase üzerinden Flutter mobil uygulamasında görselleştirir.
+- **Özellikler:** Gerçek zamanlı insan sayma, kamera tabanlı görüntü işleme, Firebase entegrasyonu, canlı veri akışı.
+- **Teknolojiler:** Python, YOLO (Computer Vision), Raspberry Pi, Flutter, Firebase.
 
 ---
 
